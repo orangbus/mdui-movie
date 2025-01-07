@@ -3,4 +3,4 @@
 
 使用 Laravel9+vue方式进行开发，前后端分离的方式。
 
-演示网站：https://v.orangbus.cn
+演示网站：https://movie.orangbus.cn
